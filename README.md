@@ -1,29 +1,11 @@
-# Deep-Learning-Tutorial
-Full Introductory Course to Begin Your Journey in Deep Learning
+# Best-Deep-Learning-Tutorials
+These are some of the best tutorials and stack exchange/quora answers that I encountared when I began my Deep Learning journey. From reading these websites, one should gain an intuition into the logic of some of the most fundamental deep learning architectures out there.
 
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Erick7451 
-0
-0 0 Erick7451/Deep-Learning-Tutorial
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights  Settings
-Editing Home
-Home
- 
-    
-Edit mode:  
-Welcome to the Deep-Learning-Tutorial wiki!
 
-Hey guys, these are some of the links I used to build a founding understanding of deep learning.
 
-Foundation Knowledge:
+
+**Foundation Knowledge**:
 
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
@@ -33,15 +15,15 @@ https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-l
 
 https://www.quora.com/Why-does-convolution-neutral-network-increment-the-number-of-filters-in-each-layer
 
-Translation Equivariance:
+**Translation Equivariance**:
 
 https://stats.stackexchange.com/questions/208936/what-is-translation-invariance-in-computer-vision-and-convolutional-neural-netwo
 
-Updating weights:
+**Updating weights**:
 
 https://datascience.stackexchange.com/questions/25754/updating-the-weights-of-the-filters-in-a-cnn
 
-ReLU:
+**ReLU**:
 
 https://stats.stackexchange.com/questions/226923/why-do-we-use-relu-in-neural-networks-and-how-do-we-use-it
 
@@ -51,15 +33,15 @@ https://stats.stackexchange.com/questions/176794/how-does-rectilinear-activation
 
 https://stats.stackexchange.com/questions/299915/how-does-the-rectified-linear-unit-relu-activation-function-produce-non-linear
 
-Softmax:
+**Softmax**:
 
 https://datascience.stackexchange.com/questions/25315/why-should-softmax-be-used-in-cnn
 
-Overlap Pooling:
+**Overlap Pooling**:
 
 https://stats.stackexchange.com/questions/283261/why-does-overlapped-pooling-help-reduce-overfitting-in-conv-nets
 
-Batch-Normalization:
+**Batch-Normalization**:
 
 http://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normalization-really-works-normalization-in-deep-learning-part-1/
 
@@ -68,19 +50,5 @@ https://arxiv.org/pdf/1502.03167.pdf
 https://stats.stackexchange.com/questions/219808/how-and-why-does-batch-normalization-use-moving-averages-to-track-the-accuracy-o
 
 https://github.com/vinsis/understanding-neuralnetworks-pytorch/wiki/Understanding-Dropout
-Edit message
-Write a small message here explaining this change. (Optional)
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
 
